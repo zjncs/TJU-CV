@@ -1,6 +1,7 @@
 # TJU-CV
 Edited by 知乎@Geoffrey Hinton<br>
-GitHub：https://github.com/zjncs
+GitHub：https://github.com/zjncs<br>
+# 希望可以关注知乎，涨涨粉
 
 本人因为你天在overleaf上没有简历模板，且有相当多收费模板（最后都是骗人的），故自制天大cv，免费开源，请多多支持
 
